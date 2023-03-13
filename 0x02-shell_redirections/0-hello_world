@@ -1,3 +1,2 @@
 #!/bin/bash
-#this is bas program to display Hello World
 echo "Hello World" 
